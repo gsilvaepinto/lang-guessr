@@ -4,7 +4,7 @@ import langs from 'langs';
 
 function main(){
     const weakLangs = {
-        sco: 'Scotish'
+        sco: 'Scottish'
     };
 
     const input = process.argv[2];
