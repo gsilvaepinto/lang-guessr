@@ -19,21 +19,7 @@ This is my first Node.js project — built to help me learn how to use npm packa
 
 ## Example
 
-```bash
-node index.js "Maybe he'll come, but it was raining a lot yesterday, so I don't know."
-```
-
-Output:
-
-```
-Top language guesses:
-
-1. Scots (sco) – score: 1.0000
-2. English (eng) – score: 0.9999
-3. Afrikaans (afr) – score: 0.9981
-
-Detected language: Scots
-```
+![Image](https://github.com/user-attachments/assets/5d5ec62c-0505-4c1f-ba69-3827292d9bee)
 
 ---
 
